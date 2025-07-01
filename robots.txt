@@ -1,0 +1,18 @@
+User-agent: *
+
+Disallow: /mypage
+Disallow: /mypage/
+Disallow: /checkout
+Disallow: /checkout/
+Disallow: /sample/order
+Disallow: /sample/order/
+Disallow: /front/upload/
+Disallow: /goods/checkout
+Disallow: /goods/checkout/
+Disallow: /mcard/checkout
+Disallow: /mcard/checkout/
+Disallow: /movie/checkout
+Disallow: /movie/checkout/
+Disallow: /naver/
+Disallow: /nice/
+Disallow: /admin/
